@@ -22,7 +22,6 @@ The experiments for the data set given for this project, have been carried out w
 Tidy data contains 180 rows and 68 columns.
 
 ## All the Variables in the tidy data contains mean and standard deviation:
-<br/> <br/>
 * mean() 
 * std()
 
